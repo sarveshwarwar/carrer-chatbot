@@ -36,4 +36,3 @@ with tab3:
                 f"Based on your skills [{skills}] and interest [{interest}], you can consider roles like:\n"
                 "- Data Analyst\n- Machine Learning Engineer\n- AI Specialist\n- Software Developer"
             )
-
