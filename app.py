@@ -1,10 +1,12 @@
 import streamlit as st
 from career_assistant import get_answer, resume_tips
 
+# Page configuration
 st.set_page_config(page_title="AI Career Assistant", layout="wide")
 st.title("🤖 AI Career Assistant")
 st.write("Your personal career guidance and resume advisor, powered by open-source AI.")
 
+# Tabs for features
 tab1, tab2, tab3 = st.tabs(["Career Q&A", "Resume Advice", "Job Role Recommendation"])
 
 # --- Career Q&A ---
@@ -36,3 +38,4 @@ with tab3:
                 f"Based on your skills [{skills}] and interest [{interest}], you can consider roles like:\n"
                 "- Data Analyst\n- Machine Learning Engineer\n- AI Specialist\n- Software Developer"
             )
+
