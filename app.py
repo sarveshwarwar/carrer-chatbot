@@ -436,5 +436,4 @@ with tabs[3]:
 
 # Footer
 st.markdown("---")
-st.caption("CareerPath AI — advanced career assistant. You can expand ROLE_ROADMAPS with local job-market skills, "
-           "or enable OpenAI in the sidebar for richer conversational replies (requires OpenAI package & key).")
+st.caption("CareerPath AI — advanced career assistant). 
