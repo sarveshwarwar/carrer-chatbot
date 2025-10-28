@@ -434,7 +434,4 @@ with tabs[3]:
             report_text = "\n".join(report_lines)
             st.download_button("Download Report (TXT)", report_text, file_name="resume_report.txt", mime="text/plain")
 
-# Footer
-st.markdown("---")
-
 
