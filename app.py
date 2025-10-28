@@ -436,4 +436,4 @@ with tabs[3]:
 
 # Footer
 st.markdown("---")
-st.caption("CareerPath AI — advanced career assistant.)
+st.caption("CareerPath AI — advanced career assistant".)
