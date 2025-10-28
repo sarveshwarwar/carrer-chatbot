@@ -1,21 +1,4 @@
-# career_ai_assistant.py
-"""
-AI Career Assistant (Advanced) - Streamlit app
 
-Features:
-- Career Chatbot (heuristic answers + optional OpenAI integration)
-- Career Growth Roadmap suggestions for common developer/data roles
-- Skill Gap Analyzer: compares user skills vs roadmap and gives prioritized learning tasks
-- Resume Scorer: keyword overlap score + optional TF-IDF similarity (scikit-learn used if available)
-- Exportable report download (TXT)
-
-Recommended requirements (put in requirements.txt):
-streamlit
-pandas
-numpy
-scikit-learn
-openai   # OPTIONAL - only if you want GPT integration
-"""
 
 from typing import List, Dict, Tuple
 import streamlit as st
