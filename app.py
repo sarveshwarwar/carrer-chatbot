@@ -44,7 +44,7 @@ st.set_page_config(page_title="CareerPath AI — Advanced Career Assistant", lay
 st.title("🤖 CareerPath AI — Advanced Career Assistant")
 st.markdown(
     "Modules: Career Chatbot • Career Roadmap • Skill Gap Analyzer • Resume Scorer\n\n"
-    "This app uses offline heuristics and light NLP. Optionally you can enable OpenAI in the sidebar for richer answers."
+    
 )
 
 # ---------------------------
