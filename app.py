@@ -24,7 +24,7 @@ except Exception:
 
 st.set_page_config(page_title="CareerPath AI — Advanced Career Assistant", layout="wide")
 
-st.title("🤖 CareerPath AI — Advanced Career Assistant")
+st.title("🤖 CareerPath AI —  Career Assistant")
 st.markdown(
     "Modules: Career Chatbot • Career Roadmap • Skill Gap Analyzer • Resume Scorer\n\n"
     
